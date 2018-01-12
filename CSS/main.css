@@ -1,0 +1,104 @@
+body{
+    margin: 0 auto;
+    background-color: #D1DAEA;
+    
+}
+
+
+/*                 NAV*/
+.nav-link{
+    color: aliceblue;
+}
+.navbar-brand{
+    color: floralwhite;  
+}
+.navbar-brand:hover{
+    color: salmon;
+}
+.nav-link:hover{
+    color: salmon;
+}
+.jumbotron{
+    margin: 2rem;
+}
+
+#yuh{
+    background: #3D4B66;
+
+}
+
+.display-4{
+    color:#363636;
+    font-family:serif;
+}
+/*                 HELP    */
+
+
+.img-fluid{
+    float: right;
+    margin: 2rem 0 0 2rem;
+}
+
+
+
+
+.yo{
+    list-style: none;
+    margin-top: 2rem;
+}
+.move{
+    margin-top: 5rem;
+}
+/*               footer   */
+.soc:hover{
+    background-color:salmon;
+}
+
+
+/*             fonts         */
+
+li{
+    font-family: 'Ovo', 'halvetica', 'arial', serif;
+}
+.active{
+    font-family: 'Ovo', 'halvetica', 'arial', serif;
+}
+.display-1{
+    font-family: 'Ovo', 'halvetica', 'arial', serif;
+    font-size: 7rem;
+}
+p {
+    font-family: 'Muli', 'halvetica', 'arial', sans-serif;
+}
+#ye{
+    font-family: 'Ovo', 'halvetica', 'arial', serif;
+}
+/*             buttons */
+
+
+.button4 {padding: 32px 16px;}
+.button4{
+    margin-top: 3rem;
+    font-family: 'Ovo', 'halvetica', 'arial', serif;
+    width: 20rem;
+    height:5rem;
+    text-align: center;
+    background: #5B5F66;
+    color: antiquewhite;
+
+
+
+
+/*             CARD */
+
+.card{
+    float:left;
+}
+
+/*             text     */
+
+
+.display1{
+    margin-bottom: 2rem;
+    text-align: center;
+}
